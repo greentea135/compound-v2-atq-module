@@ -13,7 +13,7 @@ To set up the submodule for development, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/greentea135/silo-atq-module
+   https://github.com/greentea135/compound-v2-atq-module
    ```
 2. Navigate into the repository directory:
 
